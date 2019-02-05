@@ -91,6 +91,6 @@ If you are creating a new docs page, keep you images inside a subdirectory under
 
 Always try to use the existing components and features in markdown. Create a new component or use a component from npm, unless there is no other option.
 
-### Submiting Changes / New Doc Pages
+### Submitting Changes / New Doc Pages
 
-We are happy to recieve any pull requests with changes that could make our documentation better and easier to understand.
+We are happy to receive any pull requests with changes that could make our documentation better and easier to understand.
