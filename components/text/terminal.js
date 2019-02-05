@@ -99,7 +99,7 @@ export const TerminalLink = props => (
     <GenericLink {...props} />
     <style jsx>
       {`
-        span :gloabl(a) {
+        span :global(a) {
           text-decoration: underline;
         }
       `}
